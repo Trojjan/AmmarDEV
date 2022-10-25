@@ -1,0 +1,180 @@
+body {
+  margin: 0 auto -20px auto;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size:25px;
+  padding-left: 1px;
+}
+p {
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: #7A86B6;
+}
+h1 {
+  font-family: 'Ephesis', cursive;
+  font-size: 5rem;
+  color: #A8D8EA;
+  font-weight: bolder;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+h3 {
+  font-family: 'Caveat Brush', cursive;
+  color: #52575D;
+  font-size: 40px;
+}
+h6 {
+color: silver;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  border-width: 8px;
+  width: 70px;
+  color: #7F8487;
+  height: 1rem;
+}
+.top-container {
+  position: relative;
+  padding-bottom: 50px;
+  background-color: #CDFCF6;
+}
+.image-top {
+margin-left: 40%;
+}
+.bottom-image {
+position: absolute;
+left: 25%;
+}
+.sun-img {
+  height: 80px;
+  width: 80px;
+  margin-top: 20px;
+}
+.mountain-img {
+display: block;
+margin-bottom: -27px;
+position: relative;
+left: 30%;
+}
+.palm-tree-img {
+  height: 150px;
+  width: 150px;
+  margin-top: -100px;
+  float: left;
+}
+.tree-img {
+  float: right;
+  width: 150px;
+  height: 150px;
+  margin-top: -6.3%;
+}
+.grass-img {
+  float: left;
+  width: 50rem;
+  height: 30px;
+  margin-top: 25px;
+  margin-left: -200px;
+}
+.grass-img2 {
+  float: right;
+  width: 60rem;
+  height: 30px;
+  margin-top: -30px;
+  margin-right: -35px;
+}
+.para-prop {
+  color: #905E96;
+  font-size: 2rem;
+}
+.procolor {
+  text-decoration: underline;
+ color: #66BFBF;
+}
+.middle-container {
+  background-color: lightgrey;
+  line-height: 2em;
+  padding: 50px 0 50px 0;
+}
+.ammar-img {
+  height: 200px;
+  width: 200px;
+  margin-left: -20px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  font-weight: bolder;
+  padding: 40px 0 10px 0;
+}
+.skill-row {
+  width: 50%;
+  margin: 80px auto 80px auto;
+}
+.skills {
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+.my-skills {
+  text-align: center;
+  font-size: 4rem;
+  font-family: 'Creepster', cursive;
+}
+.skills-giph {
+  float: left;
+  display: inline-block;
+  margin: 0 auto auto -20%;
+  height: 200px;
+  width: 200px;
+}
+.cooking-giph {
+  float: right;
+  display: inline-block;
+  margin: 0 -30% auto auto;
+  height: 200px;
+  width: 200px;
+}
+.btn {
+  background: #11999e;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: Arial;
+  color:  #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;S
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(top, bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+  color: #2bc4ad
+}
+.bottom-txt {
+  color: #A68DAD;
+}
+a:hover {
+  color: white;
+}
+.last-para {
+  font-size: 1rem;
+  margin-top: 50px;
+}
+.footer-link , .footer-link2 , .footer-link3 {
+  margin-left: 50px;
+  color: #11999E;
+  text-decoration: none;
+}
